@@ -1,0 +1,130 @@
+2024-12-04 14:42:21 [JavaFX Application Thread] INFO : Инициализация данных о метро.
+2024-12-04 14:42:21 [JavaFX Application Thread] INFO : MetroDataInitializer, созданный с помощью StationCount: 72
+2024-12-04 14:42:21 [JavaFX Application Thread] DEBUG: Данные Metro успешно загружены.
+2024-12-04 14:42:21 [JavaFX Application Thread] INFO : Инициализация названий станций...
+2024-12-04 14:42:21 [JavaFX Application Thread] INFO : Названия станций инициализированы.
+2024-12-04 14:42:21 [JavaFX Application Thread] DEBUG: Получение матрицы смежности.
+2024-12-04 14:42:22 [JavaFX Application Thread] DEBUG: Загрузка изображения карты метро...
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Инициализация координат станции...
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Координаты станции инициализированы.
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Изменение размера карты, обновление станций.
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Инициализация координат станции...
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Координаты станции инициализированы.
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Изменение размера карты, обновление станций.
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Инициализация координат станции...
+2024-12-04 14:42:22 [JavaFX Application Thread] INFO : Координаты станции инициализированы.
+2024-12-04 14:42:56 [JavaFX Application Thread] DEBUG: Станция Улица Дыбенко была выбрана.
+2024-12-04 14:42:58 [JavaFX Application Thread] DEBUG: Станция Беговая была выбрана.
+2024-12-04 14:42:59 [JavaFX Application Thread] INFO : Начинаем поиск кратчайшего пути от станции 0 до станции 71
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 1: 3.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 1
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 2: 6.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 3: 9.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 4: 12.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 4
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 5: 12.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 6: 14.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 5
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 30: 15.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 63: 14.399999999999999
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 6
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 7: 16.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 63
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 64: 15.799999999999999
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 30
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 29: 15.399999999999999
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 41: 18.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 29
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 8: 17.299999999999997
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 31: 16.599999999999998
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 64
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 65: 17.7
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 7
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 9: 20.0
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 31
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 32: 18.099999999999998
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 8
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 21: 19.299999999999997
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 65
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 66: 19.599999999999998
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 32
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 33: 19.999999999999996
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 41
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 40: 18.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 68: 19.7
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 40
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 11: 20.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 42: 19.8
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 21
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 13: 21.299999999999997
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 22: 19.499999999999996
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 22
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 10: 22.499999999999996
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 56: 20.699999999999996
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 66
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 67: 21.4
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 68
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 69: 20.9
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 42
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 43: 21.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 33
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 34: 21.899999999999995
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 9
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 10: 20.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 11: 20.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 10
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 50: 22.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 11
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 12: 20.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 11
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 12
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 13: 20.5
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 14: 22.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 10
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 13
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 23: 22.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 13
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 56
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 57: 22.499999999999996
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 69
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 70: 22.799999999999997
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 43
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 44: 22.2
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 67
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 34
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 35: 23.899999999999995
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 50
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 51: 23.4
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 44
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 45: 23.599999999999998
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 23
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 24: 23.8
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 14
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 15: 24.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 57
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 58: 24.399999999999995
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 70
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 71: 24.799999999999997
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 51
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 52: 25.5
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 45
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 46: 25.999999999999996
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 24
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 25: 25.5
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 35
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 36: 25.099999999999994
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 15
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 16: 26.3
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 58
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обновлено расстояние до станции 59: 26.399999999999995
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Обрабатываем станцию: 71
+2024-12-04 14:42:59 [JavaFX Application Thread] INFO : Достигнута конечная станция: 71
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Восстановленный путь: [0, 1, 2, 3, 4, 5, 30, 41, 68, 69, 70, 71]
+2024-12-04 14:42:59 [JavaFX Application Thread] INFO : Путь найден между станциями 0 и 71
+2024-12-04 14:42:59 [JavaFX Application Thread] INFO : Отображение диалога с результатами маршрута.
+2024-12-04 14:42:59 [JavaFX Application Thread] DEBUG: Сообщение для отображения в диалоге: Путь: Улица Дыбенко -> Проспект Большевиков -> Ладожская -> Новочеркасская -> Площадь Александра Невского 2 -> Площадь Александра Невского 1 -> Маяковская -> Гостиный двор -> Василеостровская -> Приморская -> Зенит -> Беговая
+Время в пути: 24,8 минут.
+2024-12-04 14:43:02 [JavaFX Application Thread] INFO : Диалог с результатами маршрута закрыт.
